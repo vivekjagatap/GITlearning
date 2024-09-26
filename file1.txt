@@ -1,1 +1,9 @@
 hello
+
+steps
+git init
+git add 
+git commit
+git branch -m main
+git remote add origin https://github.com/vivekjagatap/GITlearning.git
+git push -u origin main
